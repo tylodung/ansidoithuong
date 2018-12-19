@@ -3,7 +3,7 @@ title: "Doan Binh and Pham Lieu"
 url-title: "Medicine"
 description: "Doan Binh and Pham Lieu"
 paginate: 100
-url: "http://pamasi.info/"
+url: "https://ansidoithuong.net"
 permalink: /:year/:month/:title/
 future: false
 defaults:
